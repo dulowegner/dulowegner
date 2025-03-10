@@ -18,10 +18,6 @@ Welcome to my GitHub! I'm a **qualified and tenacious professional** specializin
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dulowegner&theme=cobalt2&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=dulowegner&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
----
 
 ## 🏆 GitHub Trophies
 
