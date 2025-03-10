@@ -14,19 +14,19 @@ Welcome to my GitHub! I'm a **qualified and tenacious professional** specializin
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=dulowegner&theme=catppuccin_latte&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=dulowegner&theme=catppuccin_latte&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dulowegner&theme=catppuccin_latte&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=dulowegner&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=dulowegner&theme=catppuccin_mocha&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dulowegner&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=dulowegner&theme=catppuccin_latte&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=dulowegner&theme=catppuccin_mocha&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ## 🔧 Skills & Expertise
 
