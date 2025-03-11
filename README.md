@@ -27,47 +27,49 @@ Welcome to my GitHub! I'm a **qualified and tenacious professional** specializin
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 ---
-## 🔧 Skills & Expertise
+🔧 **Skills & Expertise**  
+- Underwater Inspection (CSWIP 3.4U Certified)  
+- Renewable Energy & Environmental Impact Assessment  
+- ROV Pipeline & Platform Inspection  
+- Machine Learning & AI for Data Analysis
+- Automated Data Recording & Processing  
+- Data Recording, Interpretation & Analysis  
+- Deep Learning for Underwater Image Processing
+- Technical Reporting & Documentation  
+- Health, Safety, and Environment (HSE) Compliance  
+- Project Management (Google Foundations Certified)  
 
-- **Underwater Inspection** (CSWIP 3.4U Certified)
-- **Renewable Energy & Environmental Impact Assessment**
-- **ROV Pipeline & Platform Inspection**
-- **Data Recording, Interpretation & Analysis**
-- **Technical Reporting & Documentation**
-- **Health, Safety, and Environment (HSE) Compliance**
-- **Project Management (Google Foundations Certified)**
-- **Software Proficiency:**
-  - SENSE, FDVR, COABIS, Nexus, Eiva
-  - AutoCAD 2D/3D
-  - Windpro
-  - ROV Pipeline Commander
-  - MS Excel & Word (Advanced)
+### **Software Proficiency**  
+- SENSE, FDVR, COABIS, Nexus, Eiva  
+- AutoCAD 2D/3D  
+- Windpro  
+- ROV Pipeline Commander  
+- Python (for AI/ML applications)
+- TensorFlow, PyTorch
+- MS Excel & Word (Advanced, Data Processing & Automation)
 
----
+🏆 **Professional Experience**  
 
-## 🏆 Professional Experience
+### **Inspection Engineer** @ Fugro GB (North) Marine Limited *(April 2023 - Present)*  
+- Leading ROV pipeline and platform inspections.  
+- Ensuring project execution aligns with safety, quality, and client requirements.  
+- Conducting seabed & debris surveys, riser inspections, and pipeline remedial analysis.  
+- Applying AI & ML for anomaly detection in underwater inspections.
 
-### **Inspection Engineer @ Fugro GB (North) Marine Limited** _(April 2023 - Present)_
+### **Underwater Inspection Controller** @ TWI Middlesbrough *(September 2022)*  
+- General Visual Inspection (GVI) & Close Visual Inspection (CVI).  
+- Conducting MPI, CP Survey, UT Survey, and Flooded Member Detection (FMD).  
+- Managing inspection schedules and technical reporting.  
+- Utilizing AI-based image processing for defect detection.
 
-- Leading ROV pipeline and platform inspections.
-- Ensuring project execution aligns with safety, quality, and client requirements.
-- Conducting seabed & debris surveys, riser inspections, and pipeline remedial analysis.
-
-### **Underwater Inspection Controller @ TWI Middlesbrough** _(September 2022)_
-
-- General Visual Inspection (GVI) & Close Visual Inspection (CVI).
-- Conducting MPI, CP Survey, UT Survey, and Flooded Member Detection (FMD).
-- Managing inspection schedules and technical reporting.
-
-### **Data Recorder @ Deepwater Engineering Limited** _(2020 - 2021)_
-
-- Recording and analyzing data from ROV and diver operations.
-- Ensuring compliance with QHSE standards.
-- Managing inspection reports for offshore projects.
+### **Data Recorder** @ Deepwater Engineering Limited *(2020 - 2021)*  
+- Recording and analyzing data from ROV and diver operations.  
+- Ensuring compliance with QHSE standards.  
+- Managing inspection reports for offshore projects.  
+- Automating data processing & analysis using AI.
 
 ---
 
 💬 **Let’s connect and build innovative offshore inspection solutions together!** 🚀
 
-📩 **Email:** [dulowegner@gmail.com
-](mailto:dulowegner@gmail.com)
+📩 **Email:** [dulowegner@gmail.com](mailto:dulowegner@gmail.com)
