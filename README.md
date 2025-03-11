@@ -25,9 +25,9 @@ Welcome to my GitHub! I'm a **qualified and tenacious professional** specializin
 ---
 
 ### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
+---
 ## 🔧 Skills & Expertise
 
 - **Underwater Inspection** (CSWIP 3.4U Certified)
